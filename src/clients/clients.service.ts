@@ -57,22 +57,12 @@ export class ClientsService {
       const visits = clientEvents.filter((e) => e.type === 'visit');
       const recharges = clientEvents.filter((e) => e.type === 'recharge');
 
-      // Obtener el rango de semanas para ese cliente (de la semana más antigua a la más reciente)
-      let minDate = clientEvents[0]?.timestamp;
-      let maxDate = clientEvents[0]?.timestamp;
+      // Obtener el rango de semanas para ese cliente
+      const allWeeks = new Set<string>();
       for (const e of clientEvents) {
-        if (e.timestamp < minDate) minDate = e.timestamp;
-        if (e.timestamp > maxDate) maxDate = e.timestamp;
+        allWeeks.add(this.getWeek(e.timestamp));
       }
-      // Calcular todas las semanas entre minDate y maxDate
-      const weeksSorted: string[] = [];
-      const current = new Date(minDate);
-      const end = new Date(maxDate);
-      while (current <= end) {
-        const weekStr = this.getWeek(current);
-        if (!weeksSorted.includes(weekStr)) weeksSorted.push(weekStr);
-        current.setDate(current.getDate() + 7);
-      }
+      const weeksSorted = Array.from(allWeeks).sort();
 
       // Agrupar visitas por semana
       const visitByWeek: Record<string, number> = {};
