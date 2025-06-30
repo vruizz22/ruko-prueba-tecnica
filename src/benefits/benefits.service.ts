@@ -92,7 +92,10 @@ export class BenefitsService {
       );
     }
     // Retornar la cantidad de beneficios creados
-    return 'Beneficios creados: ' + benefitsToCreate.length;
+    return (
+      'Cantidad de beneficios (sin filtrar, pueden haber repetidos): ' +
+      benefitsToCreate.length
+    );
   }
 
   async createBenefit(
@@ -126,6 +129,10 @@ export class BenefitsService {
           benefit_id: benefit.benefit_id,
         },
       });
+      return {
+        message: 'Beneficio creado exitosamente',
+        benefit_id: benefit.benefit_id,
+      };
     }
   }
 }
