@@ -17,6 +17,12 @@
     "noImplicitAny": false,
     "strictBindCallApply": false,
     "noFallthroughCasesInSwitch": false,
-    "strict": true
+    "strict": true,
+    "paths": {
+      "@/*": ["src/*"],
+      "@benefits/*": ["src/benefits/*"],
+      "@clients/*": ["src/clients/*"],
+      "@utils/*": ["src/utils/*"],
+    },
   }
 }

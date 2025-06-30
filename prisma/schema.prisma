@@ -1,0 +1,61 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Client {
+  client_id    String          @id @db.VarChar
+  created_at   DateTime        @default(now()) @db.Timestamptz
+  events       Event[]
+  benefitLinks BenefitClient[] // Relación muchos-a-muchos con Benefit
+}
+
+model Store {
+  store_id   String    @id @db.VarChar
+  name       String?
+  created_at DateTime  @default(now()) @db.Timestamptz
+  events     Event[]
+  benefits   Benefit[]
+}
+
+model Event {
+  event_id  Int      @id @default(autoincrement())
+  client_id String
+  store_id  String
+  type      String   @db.VarChar(10) // 'visit' o 'recharge'
+  amount    Int?
+  timestamp DateTime @db.Timestamptz
+
+  client Client @relation(fields: [client_id], references: [client_id])
+  store  Store  @relation(fields: [store_id], references: [store_id])
+}
+
+model Benefit {
+  benefit_id  Int      @id @default(autoincrement())
+  store_id    String
+  description String?
+  granted_at  DateTime @default(now()) @db.Timestamptz
+
+  store        Store           @relation(fields: [store_id], references: [store_id])
+  benefitLinks BenefitClient[] // Relación muchos-a-muchos con Client
+}
+
+model BenefitClient {
+  benefit_id Int
+  client_id  String
+
+  benefit Benefit @relation(fields: [benefit_id], references: [benefit_id])
+  client  Client  @relation(fields: [client_id], references: [client_id])
+
+  @@id([client_id, benefit_id])
+}
