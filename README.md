@@ -6,7 +6,7 @@ Para abordar esta prueba técnica, he decidido utilizar un stack alineado con el
 
 - **Frontend:** Next.js (aunque no es requerido para la prueba, lo considero para una posible extensión futura y alineación con el stack de la empresa).
 - **Backend:** Nest.js (TypeScript), por su estructura modular, escalabilidad y soporte para buenas prácticas.
-- **Base de datos:** PostgreSQL. Ideal para modelar relaciones y escalar, aunque para la prueba simularé los datos en memoria.
+- **Base de datos:** PostgreSQL. Ideal para modelar relaciones y escalar.
 - **ORM:** Prisma, por su integración con TypeScript y PostgreSQL, y facilidad de uso y migración.
 - **Infraestructura:** AWS (pensando en escalabilidad futura, aunque para la prueba se ejecuta localmente).
 - **Testing:** Jest (integrado en Nest.js).
