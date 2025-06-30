@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:16
+    container_name: ruklo_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ruklo
+      POSTGRES_PASSWORD: ruklopassword
+      POSTGRES_DB: ruklo_db
+    ports:
+      - '5432:5432'
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+volumes:
+  postgres_data:
