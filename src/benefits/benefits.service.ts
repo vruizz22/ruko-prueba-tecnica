@@ -6,36 +6,34 @@ import { benefitsToCreate } from '@utils/types';
 export class BenefitsService {
   constructor(private prisma: PrismaService) {}
 
-  /*
-    Lo primero a implementar sera crear este beneficio:
-    "Beneficio automático a los clientes que visiten 
-    5 veces seguidas una misma tienda 
-    sin haber recargado su tarjeta entre medio"
-    Resumen de entidades involucradas:
-    event: fuente de datos para detectar la condición.
-    benefit: almacena la definición y metadatos del beneficio otorgado (por tienda).
-    benefit_client: asocia el beneficio otorgado con el cliente que lo ganó.
-    
-    Antes de otorgar el beneficio, se verifica 
-    si ya existe un beneficio igual para ese cliente y 
-    tienda en el mismo periodo (para evitar duplicados).
-
-    Detectar la secuencia de 5 visitas seguidas
-
-    Rcorremos la lista de eventos de visita a la tienda, (1000 eventos)
-    con un contador de visitas consecutivas, para cada cliente y tienda.
-    Si aparece un evento de tipo: "recharge",
-    reiniciamos el contador de visitas consecutivas.
-
-    Si el contador llega a 5, creamos un nuevo beneficio en la tabla
-    benefits, luego creamos una entrada en la tabla asociado a la respecitiva tienda
-    benefit_client para asociar el beneficio con el cliente.
-    */
-
+  // Método para crear beneficios automáticos para clientes frecuentes
+  // que visitan una tienda 5 veces seguidas sin recargar.
   async createAutomaticBenefitForFrequentVisitors() {
-    // Implementar la lógica para detectar visitas consecutivas y otorgar beneficios
-    // Aquí se debe acceder a los eventos de visita y aplicar la lógica descrita
-    // para identificar clientes que visitan una tienda 5 veces seguidas sin recargar.
+    /*
+     * Lo primero a implementar sera crear este beneficio:
+     * "Beneficio automático a los clientes que visiten
+     * 5 veces seguidas una misma tienda
+     * sin haber recargado su tarjeta entre medio"
+     * Resumen de entidades involucradas:
+     * event: fuente de datos para detectar la condición.
+     * benefit: almacena la definición y metadatos del beneficio otorgado (por tienda).
+     * benefit_client: asocia el beneficio otorgado con el cliente que lo ganó.
+
+     * Antes de otorgar el beneficio, se verifica
+     * si ya existe un beneficio igual para ese cliente y
+     * tienda en el mismo periodo (para evitar duplicados).
+
+     * Detectar la secuencia de 5 visitas seguidas
+
+     * Recorremos la lista de eventos de visita a la tienda, (1000 eventos)
+     * con un contador de visitas consecutivas, para cada cliente y tienda.
+     * Si aparece un evento de tipo: "recharge",
+     * reiniciamos el contador de visitas consecutivas.
+
+     * Si el contador llega a 5, creamos un nuevo beneficio en la tabla
+     * benefits, luego creamos una entrada en la tabla asociado a la respecitiva tienda
+     * benefit_client para asociar el beneficio con el cliente.
+     */
     const events = await this.prisma.event.findMany({
       orderBy: [{ timestamp: 'asc' }],
     });
