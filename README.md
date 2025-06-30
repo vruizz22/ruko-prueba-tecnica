@@ -173,10 +173,15 @@ Esta modularización permite mantener el código organizado, escalable y alinead
   - Retorna la cantidad de beneficios creados.
 
 Tabla BenefitClient en Prisma studio:
+
 ![Prisma Studio](./docs/BenefitClient.png)
 
 Tabla Benefit en Prisma studio:
+
 ![Prisma Studio](./docs/Benefit.png)
 
 Tabla Client en Prisma studio:
+
 ![Prisma Studio](./docs/Client.png)
+
+**Supuesto:** Se asume un cliente no puede tener el mismo beneficio (con el mismo `benefit_id` y `store_id`) más de una vez. Si se detecta un beneficio ya otorgado, no se crea uno nuevo. Pero si el beneficio es diferente (por ejemplo, si se cambia la tienda o la descripción), se crea un nuevo registro. Por lo tanto, un cliente puede tener múltiples beneficios diferentes a lo largo del tiempo.
