@@ -21,7 +21,16 @@ Para abordar esta prueba técnica, he decidido utilizar un stack alineado con el
 #### 1. Beneficio por visitas seguidas
 
 **Pregunta:** Explica cómo harías para evitar errores si esto se ejecuta sobre muchos eventos (¿usarías un job, caché, base de datos?, ¿cómo lo validarías?)
-**Respuesta:** Para evitar errores al procesar muchos eventos, implementaría un sistema robusto que combine:
+**Respuesta:**
+
+Actualmente, la lógica agrupa en memoria todos los eventos por cliente y recorre secuencialmente los eventos de cada cliente para detectar las 5 visitas consecutivas sin recarga. Este enfoque es eficiente para volúmenes pequeños o medianos.
+
+Para escalar y evitar errores con grandes volúmenes de eventos, se recomienda:
+
+- Procesar los eventos en lotes (batch) o mediante jobs asíncronos usando colas de tareas (por ejemplo, Bull/Redis) para no saturar la memoria y permitir reintentos controlados.
+- O bien, delegar la lógica de detección a la base de datos usando una consulta SQL con funciones de ventana (window functions) para identificar las secuencias directamente en el motor, reduciendo la cantidad de datos transferidos y el uso de memoria en Node.js.
+
+Ambas opciones pueden integrarse fácilmente a partir de la implementación actual, permitiendo mantener la lógica de negocio y mejorar la robustez ante grandes volúmenes de datos.
 
 #### 2. Historial de transacciones agrupado
 
@@ -142,8 +151,8 @@ npx ts-node import-events.ts
 
 #### Cantidad inicial de entidades
 
-- **Clientes:** 10
-- **Tiendas:** 2
+- **Clientes:** 10 (de client_0 a client_9)
+- **Tiendas:** 2 (de store_1 a store_2)
 - **Eventos:** 1000 (visitas y recargas)
 
 ### Módulos de la aplicación
