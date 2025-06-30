@@ -54,30 +54,31 @@ Project ruklo {
 }
 
 // Tabla de Clientes
-Table clients {
+Table client {
   client_id   varchar   [pk, not null]
   created_at  timestamptz [not null, default: `now()`]
 }
 
 // Tabla de Tiendas
-Table stores {
+Table store {
   store_id    varchar   [pk, not null]
   name        varchar
   created_at  timestamptz [not null, default: `now()`]
 }
 
 // Tabla de Eventos (visitas y recargas)
-Table events {
-  event_id    serial     [pk, not null, increment]
+Table event {
+  event_id    serial     [not null, increment]
   client_id   varchar    [not null]
   store_id    varchar    [not null]
   type        varchar(10) [not null] // 'visit' o 'recharge'
   amount      int        // solo para 'recharge'
   timestamp   timestamptz [not null]
+  primary     key(client_id, store_id) [pk]
 }
 
 // Tabla de Beneficios otorgados
-Table benefits {
+Table benefit {
   benefit_id  serial     [pk, not null, increment]
   client_id   varchar    [not null]
   store_id    varchar    [not null]
@@ -85,11 +86,22 @@ Table benefits {
   granted_at  timestamptz [not null, default: `now()`]
 }
 
+// Tabla de relación entre Beneficios y Clientes
+// Permite que un beneficio pueda ser otorgado a varios clientes
+Table benefit_client {
+  benefit_id  serial     [not null]
+  client_id   varchar    [not null]
+  primary     key(client_id, benefit_id) [pk]
+}
+
+
 // Relaciones
-Ref: events.client_id > clients.client_id // muchos eventos pertenecen a un cliente
-Ref: events.store_id > stores.store_id // muchos eventos pertenecen a una tienda
-Ref: benefits.client_id > clients.client_id // muchos beneficios pertenecen a un cliente
-Ref: benefits.store_id > stores.store_id // muchos beneficios pertenecen a una tienda
+Ref: event.client_id > client.client_id // muchos eventos pertenecen a un cliente
+Ref: event.store_id > store.store_id // muchos eventos pertenecen a una tienda
+Ref: benefit.client_id <> client.client_id // muchos beneficios pertenecen a un cliente
+Ref: benefit.store_id > store.store_id // muchos beneficios pertenecen a una tienda
+Ref: benefit_client.benefit_id > benefit.benefit_id
+Ref: benefit_client.client_id > client.client_id
 ```
 
 Este E/R tiene una version visualizable en los docs del proyecto:
