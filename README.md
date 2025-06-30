@@ -91,3 +91,6 @@ Ref: events.store_id > stores.store_id // muchos eventos pertenecen a una tienda
 Ref: benefits.client_id > clients.client_id // muchos beneficios pertenecen a un cliente
 Ref: benefits.store_id > stores.store_id // muchos beneficios pertenecen a una tienda
 ```
+
+Este E/R tiene una version visualizable en los docs del proyecto:
+[Ver modelo E/R (PDF)](./docs/ER-Ruklo-prueba-tecnica.pdf)
