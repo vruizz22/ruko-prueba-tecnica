@@ -22,6 +22,7 @@
       "@/*": ["src/*"],
       "@benefits/*": ["src/benefits/*"],
       "@clients/*": ["src/clients/*"],
+      "@utils/*": ["src/utils/*"],
     },
   }
 }
