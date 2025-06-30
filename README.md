@@ -165,3 +165,18 @@ La aplicación está estructurada en módulos siguiendo las entidades y casos de
 - **EventsModule:** Centraliza la carga, consulta y procesamiento de eventos de visitas y recargas (opcional, útil para claridad y futuras extensiones).
 
 Esta modularización permite mantener el código organizado, escalable y alineado con las mejores prácticas de NestJS.
+
+### Endpoints implementados
+
+- **GET /benefits/automatic**
+  - Detecta y otorga beneficios automáticos por visitas 5 consecutivas sin recarga.
+  - Retorna la cantidad de beneficios creados.
+
+Tabla BenefitClient en Prisma studio:
+![Prisma Studio](./docs/BenefitClient.png)
+
+Tabla Benefit en Prisma studio:
+![Prisma Studio](./docs/Benefit.png)
+
+Tabla Client en Prisma studio:
+![Prisma Studio](./docs/Client.png)
