@@ -36,6 +36,8 @@ Para abordar esta prueba técnica, he decidido utilizar un stack alineado con el
 
 ## 📚 Decisiones y notas técnicas
 
+### Modelo de datos
+
 He optado por un modelo relacional simple y eficiente para la prueba:
 
 - **clients y stores**: Identifican a los actores principales.
@@ -106,3 +108,25 @@ Ref: benefit_client.client_id > client.client_id
 
 Este E/R tiene una version visualizable en los docs del proyecto:
 [Ver modelo E/R (PDF)](./docs/ER-Ruklo-prueba-tecnica.pdf)
+
+### Implementación docker-compose para desarrollo
+
+He creado un `docker-compose.yml` para facilitar el desarrollo y pruebas locales para la base de datos
+**PostgreSQL**: Base de datos para almacenar los eventos y beneficios.
+Esta dockerización permite levantar un entorno de desarrollo completo con un solo comando, facilitando la colaboración y pruebas locales.
+
+```bash
+docker-compose up -d
+```
+
+Tome esta decisión para asegurar que el entorno de desarrollo sea consistente y fácil de configurar, permitiendo a cualquier desarrollador clonar el repositorio y comenzar a trabajar sin complicaciones adicionales.
+
+### Carga de datos inicial desde el .json a la base de datos
+
+He implementado un script en el backend que carga los datos iniciales desde el archivo `ruklo_events_1000.json` a la base de datos PostgreSQL. Este script se ejecuta al iniciar la aplicación, asegurando que los datos de prueba estén disponibles para las consultas y pruebas.
+
+#### Cantidad inicial de entidades
+
+- **Clientes:** 10
+- **Tiendas:** 2
+- **Eventos:** 1000 (visitas y recargas)
