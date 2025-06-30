@@ -12,6 +12,7 @@ Para abordar esta prueba técnica, he decidido utilizar un stack alineado con el
 - **Testing:** Jest (integrado en Nest.js).
 - **Linting y formato:** ESLint + Prettier.
 
+**Nota:** He optado por usar una base de datos, cargando los datos desde el archivo `ruklo_events_1000.json` para simular un entorno real y facilitar la escalabilidad y consultas eficientes. Esto permite que la solución sea más robusta y fácil de mantener a largo plazo
 ---
 
 ## 🧩 Resolución de la prueba
