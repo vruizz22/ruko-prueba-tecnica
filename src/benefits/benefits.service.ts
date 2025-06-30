@@ -129,10 +129,6 @@ export class BenefitsService {
           benefit_id: benefit.benefit_id,
         },
       });
-      return {
-        message: 'Beneficio creado exitosamente',
-        benefit_id: benefit.benefit_id,
-      };
     }
   }
 }
