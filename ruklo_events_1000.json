@@ -1,0 +1,6490 @@
+[
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-26T23:47:21.684610Z",
+    "amount": 4946
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-07T13:47:21.684633Z",
+    "amount": 3201
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-09T21:47:21.684641Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-06T07:47:21.684647Z",
+    "amount": 1829
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-13T05:47:21.684654Z",
+    "amount": 3511
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-19T11:47:21.684660Z",
+    "amount": 2570
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-10T06:47:21.684667Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-26T15:47:21.684674Z",
+    "amount": 653
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-13T23:47:21.684683Z",
+    "amount": 1125
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-04T07:47:21.684690Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-01T15:47:21.684696Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T21:47:21.684704Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-26T06:47:21.684713Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T15:47:21.684721Z",
+    "amount": 2769
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-24T09:47:21.684731Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-26T06:47:21.684740Z",
+    "amount": 2059
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T04:47:21.684748Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-27T13:47:21.684754Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-14T06:47:21.684760Z",
+    "amount": 1004
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-01T08:47:21.684767Z",
+    "amount": 3275
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-26T00:47:21.684773Z",
+    "amount": 1692
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-24T17:47:21.684779Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-01T10:47:21.684785Z",
+    "amount": 1928
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-13T18:47:21.684791Z",
+    "amount": 3825
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-20T07:47:21.684797Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T11:47:21.684803Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-27T12:47:21.684811Z",
+    "amount": 2666
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-06T04:47:21.684821Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T07:47:21.684828Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-12T15:47:21.684834Z",
+    "amount": 4066
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-09T05:47:21.684840Z",
+    "amount": 3094
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-14T20:47:21.684849Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-21T17:47:21.684858Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-14T14:47:21.684865Z",
+    "amount": 3516
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-01T07:47:21.684871Z",
+    "amount": 4405
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-06T08:47:21.684878Z",
+    "amount": 4840
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-19T18:47:21.684884Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T02:47:21.684889Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-26T06:47:21.684894Z",
+    "amount": 1348
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-28T10:47:21.684900Z",
+    "amount": 3061
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-19T15:47:21.684908Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-28T09:47:21.684917Z",
+    "amount": 1945
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-26T22:47:21.684927Z",
+    "amount": 2464
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-29T23:47:21.684936Z",
+    "amount": 2962
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-12T04:47:21.684944Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-07T15:47:21.684949Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-10T12:47:21.684954Z",
+    "amount": 4982
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-07T04:47:21.684960Z",
+    "amount": 3338
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-30T18:47:21.684966Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-15T05:47:21.684971Z",
+    "amount": 2231
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-22T16:47:21.684977Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-28T16:47:21.684983Z",
+    "amount": 4828
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-04T10:47:21.684988Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T03:47:21.684994Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-01T11:47:21.684999Z",
+    "amount": 2609
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T09:47:21.685008Z",
+    "amount": 631
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-01T04:47:21.685017Z",
+    "amount": 3001
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T09:47:21.685027Z",
+    "amount": 788
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-23T18:47:21.685036Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-26T13:47:21.685042Z",
+    "amount": 3692
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-25T19:47:21.685047Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-16T20:47:21.685052Z",
+    "amount": 2405
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-20T10:47:21.685058Z",
+    "amount": 2525
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-14T20:47:21.685064Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-03T17:47:21.685069Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-17T06:47:21.685075Z",
+    "amount": 1592
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-22T11:47:21.685080Z",
+    "amount": 1618
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-29T05:47:21.685086Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-30T19:47:21.685091Z",
+    "amount": 2144
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-15T01:47:21.685097Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-14T17:47:21.685102Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-11T23:47:21.685107Z",
+    "amount": 4371
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-04T11:47:21.685113Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T07:47:21.685118Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-08T17:47:21.685123Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T03:47:21.685128Z",
+    "amount": 4813
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-12T06:47:21.685134Z",
+    "amount": 2059
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-29T00:47:21.685140Z",
+    "amount": 3714
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-03T01:47:21.685146Z",
+    "amount": 2332
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-25T03:47:21.685152Z",
+    "amount": 925
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-05T16:47:21.685157Z",
+    "amount": 4943
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-11T20:47:21.685163Z",
+    "amount": 704
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-20T01:47:21.685169Z",
+    "amount": 1749
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-17T19:47:21.685177Z",
+    "amount": 796
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T13:47:21.685187Z",
+    "amount": 4063
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-10T00:47:21.685196Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-14T18:47:21.685201Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-06T08:47:21.685206Z",
+    "amount": 2958
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-10T06:47:21.685212Z",
+    "amount": 737
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-23T04:47:21.685218Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-11T18:47:21.685223Z",
+    "amount": 2121
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-03T09:47:21.685229Z",
+    "amount": 983
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-22T16:47:21.685235Z",
+    "amount": 3573
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T06:47:21.685241Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-30T06:47:21.685246Z",
+    "amount": 3498
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-05T16:47:21.685252Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-21T22:47:21.685257Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-19T22:47:21.685265Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-28T01:47:21.685273Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-12T19:47:21.685282Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-14T18:47:21.685290Z",
+    "amount": 1444
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-16T10:47:21.685298Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T06:47:21.685303Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T04:47:21.685308Z",
+    "amount": 986
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-20T07:47:21.685314Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-05T20:47:21.685319Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-03T02:47:21.685324Z",
+    "amount": 3257
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-29T19:47:21.685330Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-13T23:47:21.685336Z",
+    "amount": 2950
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-20T09:47:21.685341Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-09T00:47:21.685346Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-29T16:47:21.685352Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-04T12:47:21.685357Z",
+    "amount": 1213
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T02:47:21.685363Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-18T01:47:21.685368Z",
+    "amount": 1427
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-26T13:47:21.685374Z",
+    "amount": 4464
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-12T18:47:21.685380Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-19T14:47:21.685385Z",
+    "amount": 2982
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-28T09:47:21.685391Z",
+    "amount": 4235
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T21:47:21.685397Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-13T10:47:21.685402Z",
+    "amount": 2626
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-20T14:47:21.685408Z",
+    "amount": 4889
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-10T15:47:21.685413Z",
+    "amount": 4402
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-09T12:47:21.685420Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-20T12:47:21.685425Z",
+    "amount": 2875
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T23:47:21.685431Z",
+    "amount": 1047
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-03T19:47:21.685437Z",
+    "amount": 718
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-23T00:47:21.685443Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T21:47:21.685448Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-11T16:47:21.685453Z",
+    "amount": 660
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-23T15:47:21.685459Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-17T12:47:21.685464Z",
+    "amount": 1407
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T19:47:21.685470Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-28T08:47:21.685476Z",
+    "amount": 709
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-07T08:47:21.685486Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-09T11:47:21.685494Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-04T08:47:21.685502Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-08T07:47:21.685511Z",
+    "amount": 1404
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-09T18:47:21.685517Z",
+    "amount": 3195
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-06T06:47:21.685523Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-26T07:47:21.685528Z",
+    "amount": 1637
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-17T07:47:21.685535Z",
+    "amount": 691
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-10T03:47:21.685544Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-27T20:47:21.685553Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-16T02:47:21.685561Z",
+    "amount": 2288
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T15:47:21.685571Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-14T07:47:21.685577Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-17T19:47:21.685586Z",
+    "amount": 3038
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T15:47:21.685597Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-23T11:47:21.685605Z",
+    "amount": 3489
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-05T18:47:21.685611Z",
+    "amount": 1406
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-06T18:47:21.685618Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-02T17:47:21.685624Z",
+    "amount": 4341
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T03:47:21.685629Z",
+    "amount": 3880
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T16:47:21.685638Z",
+    "amount": 2119
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-04T07:47:21.685648Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-03T05:47:21.685656Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-15T08:47:21.685665Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-12T01:47:21.685673Z",
+    "amount": 1516
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-22T22:47:21.685682Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-26T15:47:21.685687Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-25T01:47:21.685693Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-30T08:47:21.685698Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-21T04:47:21.685704Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-15T00:47:21.685709Z",
+    "amount": 1108
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-25T23:47:21.685714Z",
+    "amount": 1281
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-03T07:47:21.685720Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T16:47:21.685725Z",
+    "amount": 1287
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-26T23:47:21.686280Z",
+    "amount": 3941
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T00:47:21.686309Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-21T07:47:21.686320Z",
+    "amount": 4418
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-01T12:47:21.686333Z",
+    "amount": 3402
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-07T02:47:21.686343Z",
+    "amount": 4951
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-28T00:47:21.686359Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T11:47:21.686369Z",
+    "amount": 4304
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-24T10:47:21.686379Z",
+    "amount": 4652
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-19T02:47:21.686389Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-11T23:47:21.686398Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-25T05:47:21.686407Z",
+    "amount": 2525
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-23T08:47:21.686418Z",
+    "amount": 1644
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T11:47:21.686429Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-09T19:47:21.686439Z",
+    "amount": 4815
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-06T15:47:21.686449Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-15T09:47:21.686459Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-19T06:47:21.686468Z",
+    "amount": 1169
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-20T10:47:21.686479Z",
+    "amount": 3008
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-01T17:47:21.686489Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T01:47:21.686499Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-19T22:47:21.686510Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T23:47:21.686519Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-12T02:47:21.686529Z",
+    "amount": 3400
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-19T03:47:21.686540Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-29T03:47:21.686549Z",
+    "amount": 4524
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-12T12:47:21.686559Z",
+    "amount": 3110
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-14T05:47:21.686570Z",
+    "amount": 2199
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-18T22:47:21.686580Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-20T12:47:21.686589Z",
+    "amount": 1699
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-23T01:47:21.686600Z",
+    "amount": 4351
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-28T21:47:21.686610Z",
+    "amount": 3262
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-21T02:47:21.686632Z",
+    "amount": 2233
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-29T20:47:21.686643Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-30T07:47:21.686656Z",
+    "amount": 3680
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-01T23:47:21.686666Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-13T15:47:21.686677Z",
+    "amount": 2243
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-25T23:47:21.686687Z",
+    "amount": 4212
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-09T11:47:21.686698Z",
+    "amount": 3000
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T19:47:21.686708Z",
+    "amount": 3555
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-04T21:47:21.686719Z",
+    "amount": 994
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-21T03:47:21.686729Z",
+    "amount": 4956
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-01T07:47:21.686739Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-12T08:47:21.686748Z",
+    "amount": 505
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-06T07:47:21.686758Z",
+    "amount": 2416
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-29T19:47:21.686769Z",
+    "amount": 1833
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T12:47:21.686781Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-24T01:47:21.686790Z",
+    "amount": 1868
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-22T06:47:21.686801Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-03T21:47:21.686810Z",
+    "amount": 4661
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-12T14:47:21.686820Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T14:47:21.686830Z",
+    "amount": 1181
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-30T11:47:21.686840Z",
+    "amount": 4735
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-30T18:47:21.686851Z",
+    "amount": 3501
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-29T09:47:21.686862Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-02T01:47:21.686871Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-13T22:47:21.686880Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-02T21:47:21.686891Z",
+    "amount": 4636
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-02T13:47:21.686902Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-14T00:47:21.686911Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-22T18:47:21.686921Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-13T17:47:21.686930Z",
+    "amount": 3328
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-10T10:47:21.686941Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-29T04:47:21.686950Z",
+    "amount": 3804
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-28T21:47:21.686960Z",
+    "amount": 946
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-18T23:47:21.686970Z",
+    "amount": 2556
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-01T13:47:21.686982Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T05:47:21.686992Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-08T18:47:21.687002Z",
+    "amount": 1021
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-27T11:47:21.687012Z",
+    "amount": 2889
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-13T21:47:21.687022Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-02T08:47:21.687031Z",
+    "amount": 3034
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-10T04:47:21.687040Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T05:47:21.687050Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-15T07:47:21.687061Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-14T23:47:21.687070Z",
+    "amount": 3829
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-07T20:47:21.687081Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-14T10:47:21.687090Z",
+    "amount": 3372
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-27T03:47:21.687101Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-19T15:47:21.687111Z",
+    "amount": 2212
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-25T12:47:21.687122Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-25T07:47:21.687131Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-04T03:47:21.687140Z",
+    "amount": 2691
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-18T19:47:21.687151Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T14:47:21.687161Z",
+    "amount": 4304
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-05T10:47:21.687170Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-21T19:47:21.687181Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T13:47:21.687191Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-01T02:47:21.687201Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-02T14:47:21.687209Z",
+    "amount": 952
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-02T00:47:21.687220Z",
+    "amount": 1399
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-22T20:47:21.687230Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-26T19:47:21.687240Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-13T10:47:21.687249Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-24T03:47:21.687258Z",
+    "amount": 4135
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-11T10:47:21.687268Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-09T10:47:21.687278Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-27T20:47:21.687287Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-13T23:47:21.687297Z",
+    "amount": 1611
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T17:47:21.687307Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T11:47:21.687317Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-07T21:47:21.687327Z",
+    "amount": 2575
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-19T06:47:21.687337Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-04T12:47:21.687347Z",
+    "amount": 3716
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-09T23:47:21.687357Z",
+    "amount": 3280
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-18T03:47:21.687367Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-21T08:47:21.687376Z",
+    "amount": 3951
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-26T03:47:21.687386Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-16T14:47:21.687395Z",
+    "amount": 3390
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T14:47:21.687406Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-27T12:47:21.687415Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-04T18:47:21.687425Z",
+    "amount": 4341
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T19:47:21.687436Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-24T13:47:21.687445Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-25T00:47:21.687453Z",
+    "amount": 1132
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-09T21:47:21.687463Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-12T08:47:21.687473Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-17T09:47:21.687482Z",
+    "amount": 1001
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T06:47:21.687492Z",
+    "amount": 2361
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-10T17:47:21.687503Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-01T13:47:21.687512Z",
+    "amount": 3768
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-29T11:47:21.687523Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-11T20:47:21.687532Z",
+    "amount": 4704
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-21T17:47:21.687543Z",
+    "amount": 3912
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-12T00:47:21.687554Z",
+    "amount": 4809
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-12T06:47:21.687566Z",
+    "amount": 4908
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-17T09:47:21.687576Z",
+    "amount": 1286
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-16T16:47:21.687821Z",
+    "amount": 3757
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-14T07:47:21.687837Z",
+    "amount": 702
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T23:47:21.687849Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-15T09:47:21.687859Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-26T01:47:21.687869Z",
+    "amount": 745
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-13T21:47:21.687885Z",
+    "amount": 2343
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-04T01:47:21.687895Z",
+    "amount": 3757
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-26T02:47:21.687906Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-23T20:47:21.687916Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-08T22:47:21.687926Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-26T13:47:21.687935Z",
+    "amount": 3165
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T09:47:21.687945Z",
+    "amount": 4928
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-30T07:47:21.687956Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T11:47:21.687967Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-30T14:47:21.687976Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-06T22:47:21.688001Z",
+    "amount": 4537
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-14T11:47:21.688011Z",
+    "amount": 3485
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-07T13:47:21.688021Z",
+    "amount": 1299
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T03:47:21.688032Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-23T23:47:21.688041Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-22T08:47:21.688050Z",
+    "amount": 3769
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T01:47:21.688061Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-28T16:47:21.688069Z",
+    "amount": 2776
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T03:47:21.688082Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-30T12:47:21.688091Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-28T16:47:21.688100Z",
+    "amount": 2414
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-28T08:47:21.688110Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-22T20:47:21.688119Z",
+    "amount": 2408
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-27T06:47:21.688130Z",
+    "amount": 4617
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-19T11:47:21.688141Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-11T16:47:21.688153Z",
+    "amount": 3277
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-14T09:47:21.688164Z",
+    "amount": 2920
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-21T07:47:21.688174Z",
+    "amount": 4184
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-22T01:47:21.688184Z",
+    "amount": 830
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-22T19:47:21.688195Z",
+    "amount": 3008
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-26T00:47:21.688206Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-19T20:47:21.688216Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-27T19:47:21.688227Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T13:47:21.688246Z",
+    "amount": 3374
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-25T22:47:21.688257Z",
+    "amount": 3066
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-26T23:47:21.688268Z",
+    "amount": 4292
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-04T12:47:21.688279Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-27T13:47:21.688288Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-17T23:47:21.688296Z",
+    "amount": 3945
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-14T16:47:21.688307Z",
+    "amount": 1961
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-26T10:47:21.688318Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-20T16:47:21.688326Z",
+    "amount": 640
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-25T15:47:21.688337Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-04T02:47:21.688346Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T23:47:21.688355Z",
+    "amount": 1082
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-12T21:47:21.688366Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-24T11:47:21.688374Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-04T02:47:21.688384Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-12T02:47:21.688393Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-21T23:47:21.688402Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T01:47:21.688411Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-03T18:47:21.688421Z",
+    "amount": 4132
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T08:47:21.688431Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-25T15:47:21.688440Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T22:47:21.688451Z",
+    "amount": 1641
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-27T05:47:21.688461Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T21:47:21.688470Z",
+    "amount": 4898
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-18T21:47:21.688480Z",
+    "amount": 3237
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-05T19:47:21.688491Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-01T22:47:21.688499Z",
+    "amount": 3389
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-09T00:47:21.688509Z",
+    "amount": 3606
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-16T02:47:21.688519Z",
+    "amount": 3040
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-27T10:47:21.688530Z",
+    "amount": 2650
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-24T08:47:21.688541Z",
+    "amount": 1867
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-16T15:47:21.688552Z",
+    "amount": 4736
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-26T02:47:21.688563Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-22T02:47:21.688572Z",
+    "amount": 2574
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-18T21:47:21.688582Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-18T00:47:21.688591Z",
+    "amount": 3884
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T17:47:21.688619Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T10:47:21.688628Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-04T02:47:21.688637Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T10:47:21.688648Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-12T11:47:21.688657Z",
+    "amount": 2456
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-16T04:47:21.688667Z",
+    "amount": 2327
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-16T20:47:21.688678Z",
+    "amount": 4963
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-26T13:47:21.688687Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-02T00:47:21.688696Z",
+    "amount": 4265
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-26T07:47:21.688707Z",
+    "amount": 770
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-26T01:47:21.688716Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T01:47:21.688725Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-01T22:47:21.688734Z",
+    "amount": 4453
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-14T18:47:21.688745Z",
+    "amount": 1879
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-12T12:47:21.688755Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-13T19:47:21.688764Z",
+    "amount": 4130
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T14:47:21.688774Z",
+    "amount": 3673
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T20:47:21.688784Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T01:47:21.688793Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-20T14:47:21.688802Z",
+    "amount": 4870
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-24T16:47:21.688812Z",
+    "amount": 4619
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T14:47:21.688823Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-16T07:47:21.688832Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-27T08:47:21.688841Z",
+    "amount": 511
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-10T11:47:21.688852Z",
+    "amount": 1716
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T21:47:21.688862Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T14:47:21.688871Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-04T03:47:21.688880Z",
+    "amount": 3368
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-14T17:47:21.688890Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T05:47:21.688899Z",
+    "amount": 951
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-22T15:47:21.688910Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-15T05:47:21.688919Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-25T14:47:21.688929Z",
+    "amount": 3795
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-22T10:47:21.688942Z",
+    "amount": 1387
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-12T07:47:21.688953Z",
+    "amount": 1057
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-19T12:47:21.688964Z",
+    "amount": 2107
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-09T22:47:21.688974Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-13T23:47:21.688984Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-03T20:47:21.688992Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-12T22:47:21.689002Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-29T22:47:21.689011Z",
+    "amount": 2476
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-22T19:47:21.689022Z",
+    "amount": 648
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-18T07:47:21.689032Z",
+    "amount": 741
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-14T01:47:21.689042Z",
+    "amount": 4557
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-11T19:47:21.689053Z",
+    "amount": 2539
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-23T23:47:21.689064Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-23T05:47:21.689072Z",
+    "amount": 716
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-15T07:47:21.689082Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-27T20:47:21.689091Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-20T08:47:21.689101Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-19T09:47:21.689111Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-14T13:47:21.689120Z",
+    "amount": 1039
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T13:47:21.689131Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-29T20:47:21.689140Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-25T21:47:21.689149Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T06:47:21.689158Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-19T17:47:21.689169Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-03T15:47:21.689178Z",
+    "amount": 2210
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T18:47:21.689188Z",
+    "amount": 1611
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-20T11:47:21.689199Z",
+    "amount": 1570
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-25T08:47:21.689209Z",
+    "amount": 819
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-25T13:47:21.689220Z",
+    "amount": 1471
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-05T14:47:21.689230Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-10T09:47:21.689239Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-28T16:47:21.689249Z",
+    "amount": 2347
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-22T17:47:21.689260Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-24T23:47:21.689269Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-21T09:47:21.689279Z",
+    "amount": 2284
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-24T05:47:21.689290Z",
+    "amount": 3213
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T05:47:21.689301Z",
+    "amount": 2115
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-11T20:47:21.689312Z",
+    "amount": 1297
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T02:47:21.689323Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-05T02:47:21.689331Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-26T09:47:21.689341Z",
+    "amount": 1656
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-15T02:47:21.689350Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T09:47:21.689360Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T14:47:21.689369Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-17T03:47:21.689378Z",
+    "amount": 1362
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-25T17:47:21.689389Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T23:47:21.689398Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-15T04:47:21.689408Z",
+    "amount": 3055
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-08T21:47:21.689419Z",
+    "amount": 1018
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-30T06:47:21.689429Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-25T15:47:21.689439Z",
+    "amount": 4457
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T10:47:21.689449Z",
+    "amount": 3077
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-14T20:47:21.689458Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-17T14:47:21.689468Z",
+    "amount": 2713
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T12:47:21.689477Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T07:47:21.689486Z",
+    "amount": 4310
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-05T15:47:21.689513Z",
+    "amount": 4300
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-23T05:47:21.689524Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-11T12:47:21.689534Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T22:47:21.689543Z",
+    "amount": 2368
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-11T03:47:21.689554Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-12T23:47:21.689564Z",
+    "amount": 1724
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-30T09:47:21.689574Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T01:47:21.689583Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-25T21:47:21.689592Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-21T19:47:21.689601Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-04T11:47:21.689610Z",
+    "amount": 4746
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-26T19:47:21.689621Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-09T06:47:21.689629Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-24T06:47:21.689639Z",
+    "amount": 3005
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-02T13:47:21.689649Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-30T07:47:21.689658Z",
+    "amount": 4250
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-24T08:47:21.689668Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T18:47:21.689677Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-06T19:47:21.689686Z",
+    "amount": 4455
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-05T18:47:21.689696Z",
+    "amount": 2035
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T20:47:21.689707Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T06:47:21.689716Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-13T23:47:21.689726Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T04:47:21.689735Z",
+    "amount": 1353
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-11T02:47:21.689745Z",
+    "amount": 3426
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-19T07:47:21.689755Z",
+    "amount": 4739
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-29T00:47:21.689766Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-12T04:47:21.689774Z",
+    "amount": 2287
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T01:47:21.689785Z",
+    "amount": 887
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-30T06:47:21.689905Z",
+    "amount": 1520
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-05T23:47:21.689920Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-28T01:47:21.689930Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-07T19:47:21.689939Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-10T10:47:21.689948Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-27T18:47:21.689961Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-11T16:47:21.689970Z",
+    "amount": 3328
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-07T21:47:21.689980Z",
+    "amount": 2451
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-07T07:47:21.689990Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-24T22:47:21.689999Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-10T23:47:21.690008Z",
+    "amount": 3716
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-29T14:47:21.690019Z",
+    "amount": 1607
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-25T20:47:21.690030Z",
+    "amount": 1216
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-15T12:47:21.690042Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-28T15:47:21.690051Z",
+    "amount": 1740
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-17T06:47:21.690061Z",
+    "amount": 2137
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-18T02:47:21.690073Z",
+    "amount": 3833
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-13T20:47:21.690083Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-21T17:47:21.690093Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-29T07:47:21.690102Z",
+    "amount": 696
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-16T12:47:21.690113Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-12T01:47:21.690122Z",
+    "amount": 3400
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-17T13:47:21.690132Z",
+    "amount": 3377
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T16:47:21.690143Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-09T16:47:21.690152Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-22T02:47:21.690161Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-10T15:47:21.690171Z",
+    "amount": 771
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-10T09:47:21.690181Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-04T16:47:21.690191Z",
+    "amount": 3661
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-27T15:47:21.690201Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-09T02:47:21.690211Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-29T11:47:21.690220Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-18T04:47:21.690229Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-11T02:47:21.690238Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-29T06:47:21.690248Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-04T14:47:21.690257Z",
+    "amount": 752
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-04T02:47:21.690268Z",
+    "amount": 3039
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-24T19:47:21.690279Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-11T05:47:21.690289Z",
+    "amount": 3907
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T07:47:21.690299Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-07T19:47:21.690308Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-24T22:47:21.690317Z",
+    "amount": 4734
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-19T20:47:21.690328Z",
+    "amount": 4988
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T01:47:21.690338Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-24T17:47:21.690347Z",
+    "amount": 4036
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-12T23:47:21.690357Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-29T03:47:21.690367Z",
+    "amount": 751
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-13T17:47:21.690377Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-22T18:47:21.690387Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T04:47:21.690396Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-25T23:47:21.690405Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-10T16:47:21.690414Z",
+    "amount": 2782
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T14:47:21.690425Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-14T05:47:21.690433Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T16:47:21.690443Z",
+    "amount": 4311
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-17T13:47:21.690453Z",
+    "amount": 4325
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T11:47:21.690463Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-13T18:47:21.690486Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-21T15:47:21.690495Z",
+    "amount": 1384
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-18T14:47:21.690506Z",
+    "amount": 3532
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-08T18:47:21.690518Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-12T18:47:21.690527Z",
+    "amount": 1723
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T16:47:21.690537Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-21T23:47:21.690545Z",
+    "amount": 3180
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T09:47:21.690555Z",
+    "amount": 2936
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-10T05:47:21.690565Z",
+    "amount": 3607
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-28T23:47:21.690576Z",
+    "amount": 2388
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-21T18:47:21.690585Z",
+    "amount": 1720
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-12T06:47:21.690595Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-08T00:47:21.690605Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-03T03:47:21.690615Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-09T09:47:21.690624Z",
+    "amount": 3128
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-24T18:47:21.690634Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-29T09:47:21.690642Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T01:47:21.690664Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-23T18:47:21.690672Z",
+    "amount": 2536
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-05T21:47:21.690683Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T01:47:21.690694Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-26T10:47:21.690703Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T20:47:21.690712Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-24T19:47:21.690721Z",
+    "amount": 831
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-26T02:47:21.690734Z",
+    "amount": 3559
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-04T01:47:21.690745Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-09T02:47:21.690754Z",
+    "amount": 3153
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-07T19:47:21.690764Z",
+    "amount": 4465
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-30T21:47:21.690774Z",
+    "amount": 545
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-08T18:47:21.690784Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-23T18:47:21.690793Z",
+    "amount": 1916
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-14T03:47:21.690803Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-14T06:47:21.690812Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-08T14:47:21.690821Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-13T07:47:21.690831Z",
+    "amount": 1167
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-02T18:47:21.690842Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T20:47:21.690852Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-11T06:47:21.690861Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-09T18:47:21.690870Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-20T16:47:21.690886Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-10T09:47:21.690895Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-26T12:47:21.690904Z",
+    "amount": 4705
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-18T04:47:21.690915Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-28T15:47:21.690925Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-01T23:47:21.690936Z",
+    "amount": 2597
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-10T13:47:21.690947Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T14:47:21.690956Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-06T08:47:21.690965Z",
+    "amount": 1560
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-22T20:47:21.690975Z",
+    "amount": 1872
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-04T12:47:21.691002Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-05T08:47:21.691015Z",
+    "amount": 2502
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-30T10:47:21.691025Z",
+    "amount": 3271
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-18T02:47:21.691035Z",
+    "amount": 3449
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-07T17:47:21.691046Z",
+    "amount": 4570
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-04T07:47:21.691056Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-11T17:47:21.691065Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T14:47:21.691075Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-22T20:47:21.691084Z",
+    "amount": 1727
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T19:47:21.691094Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-09T14:47:21.691103Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-20T12:47:21.691111Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-29T05:47:21.691126Z",
+    "amount": 854
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T17:47:21.691137Z",
+    "amount": 3272
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-21T03:47:21.691146Z",
+    "amount": 4434
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-11T12:47:21.691157Z",
+    "amount": 1053
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-09T00:47:21.691168Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-07T13:47:21.691178Z",
+    "amount": 3993
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T11:47:21.691188Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-03T18:47:21.691197Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-30T12:47:21.691206Z",
+    "amount": 2708
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-23T05:47:21.691216Z",
+    "amount": 3557
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-24T07:47:21.691226Z",
+    "amount": 4039
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-09T18:47:21.691236Z",
+    "amount": 4457
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-11T20:47:21.691247Z",
+    "amount": 3834
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-07T07:47:21.691257Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-20T14:47:21.691266Z",
+    "amount": 520
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-17T02:47:21.691278Z",
+    "amount": 3938
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-12T18:47:21.691288Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T02:47:21.691297Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-25T21:47:21.691307Z",
+    "amount": 2488
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-03T12:47:21.691317Z",
+    "amount": 1455
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-16T06:47:21.691332Z",
+    "amount": 2066
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-18T09:47:21.691343Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-20T14:47:21.691351Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T15:47:21.691362Z",
+    "amount": 4507
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-20T23:47:21.691372Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-14T21:47:21.691381Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-29T12:47:21.691390Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-12T01:47:21.691400Z",
+    "amount": 4241
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-30T16:47:21.691410Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-25T04:47:21.691419Z",
+    "amount": 1765
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-08T13:47:21.691430Z",
+    "amount": 4422
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-10T21:47:21.691440Z",
+    "amount": 4224
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-15T23:47:21.691450Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-24T15:47:21.691459Z",
+    "amount": 712
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-20T20:47:21.691470Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-04T13:47:21.691478Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-23T15:47:21.691488Z",
+    "amount": 3457
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-19T07:47:21.691500Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-19T09:47:21.691509Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-03T19:47:21.691518Z",
+    "amount": 2421
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-05T02:47:21.691529Z",
+    "amount": 1805
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-12T13:47:21.691539Z",
+    "amount": 1996
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-26T03:47:21.691556Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-13T16:47:21.691565Z",
+    "amount": 2815
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-24T21:47:21.691575Z",
+    "amount": 1933
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-03T07:47:21.691585Z",
+    "amount": 3668
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-14T10:47:21.691596Z",
+    "amount": 3001
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-15T10:47:21.691608Z",
+    "amount": 758
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-10T07:47:21.691618Z",
+    "amount": 1765
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-13T16:47:21.691628Z",
+    "amount": 2279
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-15T23:47:21.691638Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-08T11:47:21.691653Z",
+    "amount": 3062
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-12T11:47:21.691668Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-29T20:47:21.691677Z",
+    "amount": 2382
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-23T08:47:21.691687Z",
+    "amount": 4236
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-08T07:47:21.691697Z",
+    "amount": 2081
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-05T15:47:21.691708Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-10T19:47:21.691716Z",
+    "amount": 1580
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-05T23:47:21.691726Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-22T15:47:21.691735Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-24T01:47:21.691744Z",
+    "amount": 1152
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-30T11:47:21.691755Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-20T17:47:21.691763Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-14T19:47:21.691773Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-08T15:47:21.691782Z",
+    "amount": 4813
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-09T08:47:21.691793Z",
+    "amount": 3445
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-07T01:47:21.691802Z",
+    "amount": 4396
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-02T20:47:21.691812Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-26T06:47:21.691821Z",
+    "amount": 1245
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-05T00:47:21.691832Z",
+    "amount": 2630
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-30T04:47:21.691842Z",
+    "amount": 837
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T12:47:21.691852Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-02T15:47:21.691862Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-28T01:47:21.691870Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-13T06:47:21.691879Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-25T02:47:21.691888Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T10:47:21.691897Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-09T13:47:21.691906Z",
+    "amount": 511
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-06T04:47:21.691916Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-15T06:47:21.691927Z",
+    "amount": 1603
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-21T15:47:21.691937Z",
+    "amount": 942
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-29T16:47:21.691948Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-11T15:47:21.691957Z",
+    "amount": 3716
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-24T02:47:21.691967Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T14:47:21.691981Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-28T18:47:21.691990Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-14T22:47:21.692000Z",
+    "amount": 2200
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-30T21:47:21.692012Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-23T07:47:21.692021Z",
+    "amount": 1910
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T04:47:21.692031Z",
+    "amount": 597
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-30T20:47:21.692041Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-25T07:47:21.692050Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-29T21:47:21.692059Z",
+    "amount": 2340
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-03T14:47:21.692070Z",
+    "amount": 930
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-07T22:47:21.692080Z",
+    "amount": 3748
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-21T00:47:21.692090Z",
+    "amount": 3602
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-08T00:47:21.692101Z",
+    "amount": 3510
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-23T19:47:21.692111Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-04T13:47:21.692120Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-13T20:47:21.692130Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-06T16:47:21.692139Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-01T04:47:21.692148Z",
+    "amount": 2129
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-18T03:47:21.692164Z",
+    "amount": 4606
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-14T18:47:21.692175Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T18:47:21.692184Z",
+    "amount": 2130
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-11T19:47:21.692194Z",
+    "amount": 3321
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-08T01:47:21.692209Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-08T15:47:21.692219Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-24T15:47:21.692228Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-15T07:47:21.692238Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T23:47:21.692247Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-27T06:47:21.692258Z",
+    "amount": 4651
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-19T07:47:21.692504Z",
+    "amount": 3038
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-12T21:47:21.692519Z",
+    "amount": 2676
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-15T11:47:21.692526Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-02T02:47:21.692531Z",
+    "amount": 4257
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-16T02:47:21.692554Z",
+    "amount": 3160
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-12T16:47:21.692565Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-10T07:47:21.692574Z",
+    "amount": 2344
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-10T13:47:21.692580Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-11T08:47:21.692585Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-07T03:47:21.692591Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T01:47:21.692596Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-07T02:47:21.692601Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-28T16:47:21.692606Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-25T00:47:21.692612Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-23T06:47:21.692617Z",
+    "amount": 4399
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-17T20:47:21.692623Z",
+    "amount": 2169
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-26T06:47:21.692628Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-13T11:47:21.692634Z",
+    "amount": 2925
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-19T10:47:21.692639Z",
+    "amount": 1834
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-18T10:47:21.692645Z",
+    "amount": 4141
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T15:47:21.692650Z",
+    "amount": 3457
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-10T15:47:21.692656Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-06T02:47:21.692661Z",
+    "amount": 764
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-30T01:47:21.692667Z",
+    "amount": 1540
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-30T12:47:21.692673Z",
+    "amount": 1532
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-25T10:47:21.692679Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-07T21:47:21.692685Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-03T01:47:21.692691Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T22:47:21.692696Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T15:47:21.692703Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-25T15:47:21.692711Z",
+    "amount": 3472
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-22T19:47:21.692738Z",
+    "amount": 4145
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-13T07:47:21.692745Z",
+    "amount": 1886
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-02T11:47:21.692750Z",
+    "amount": 2515
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-04T02:47:21.692756Z",
+    "amount": 1584
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T14:47:21.692762Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-16T02:47:21.692774Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-13T20:47:21.692781Z",
+    "amount": 3619
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-22T23:47:21.692791Z",
+    "amount": 4536
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T04:47:21.692801Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-21T18:47:21.692806Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T20:47:21.692816Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-22T23:47:21.692821Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-14T23:47:21.692826Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-30T08:47:21.692831Z",
+    "amount": 2221
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-24T12:47:21.692840Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-19T20:47:21.692845Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-16T10:47:21.692851Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-03T12:47:21.692856Z",
+    "amount": 814
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-10T14:47:21.692880Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T01:47:21.692888Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-05T21:47:21.692896Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-19T00:47:21.692905Z",
+    "amount": 2725
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-09T00:47:21.692913Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-12T01:47:21.692918Z",
+    "amount": 831
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T22:47:21.692925Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-21T10:47:21.692930Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-04T11:47:21.692935Z",
+    "amount": 4591
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-20T04:47:21.692947Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-13T11:47:21.692952Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-18T20:47:21.692957Z",
+    "amount": 3849
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-26T23:47:21.692962Z",
+    "amount": 4760
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-30T11:47:21.692969Z",
+    "amount": 1739
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-04T18:47:21.692976Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-19T08:47:21.692982Z",
+    "amount": 2695
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-10T21:47:21.692987Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-13T16:47:21.692992Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-07T16:47:21.692997Z",
+    "amount": 3196
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-23T03:47:21.693006Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-09T08:47:21.693011Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T21:47:21.693016Z",
+    "amount": 2126
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-25T20:47:21.693022Z",
+    "amount": 1957
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-27T21:47:21.693028Z",
+    "amount": 1604
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-21T20:47:21.693034Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-04T17:47:21.693039Z",
+    "amount": 1947
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-06T21:47:21.693045Z",
+    "amount": 2350
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-29T17:47:21.693051Z",
+    "amount": 1453
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-20T07:47:21.693056Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T18:47:21.693061Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-16T17:47:21.693067Z",
+    "amount": 3055
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-11T12:47:21.693078Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-16T11:47:21.693085Z",
+    "amount": 1826
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-07T16:47:21.693095Z",
+    "amount": 1969
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-02T17:47:21.693101Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-01T19:47:21.693106Z",
+    "amount": 3165
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-22T13:47:21.693113Z",
+    "amount": 2323
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-03T13:47:21.693122Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-24T01:47:21.693130Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-26T12:47:21.693139Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-08T09:47:21.693147Z",
+    "amount": 2370
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-28T05:47:21.693153Z",
+    "amount": 3795
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-24T15:47:21.693159Z",
+    "amount": 4882
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-03T15:47:21.693173Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-01T17:47:21.693182Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-03T10:47:21.693191Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-13T00:47:21.693202Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-28T07:47:21.693209Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-25T14:47:21.693218Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-16T08:47:21.693226Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-26T17:47:21.693234Z",
+    "amount": 3346
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-07T19:47:21.693249Z",
+    "amount": 1836
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-03T23:47:21.693260Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-04T14:47:21.693270Z",
+    "amount": 1909
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T20:47:21.693281Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-05T04:47:21.693287Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-12T15:47:21.693292Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T17:47:21.693297Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-30T13:47:21.693302Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-13T07:47:21.693307Z",
+    "amount": 4116
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T20:47:21.693313Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-08T00:47:21.693318Z",
+    "amount": 3737
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-25T21:47:21.693324Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-02T03:47:21.693329Z",
+    "amount": 4348
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-04T20:47:21.693335Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-02T00:47:21.693340Z",
+    "amount": 2385
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-23T00:47:21.693346Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-24T15:47:21.693351Z",
+    "amount": 3397
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-27T18:47:21.693356Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T04:47:21.693361Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-24T08:47:21.693367Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-02T02:47:21.693375Z",
+    "amount": 2831
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-12T12:47:21.693384Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-26T05:47:21.693399Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-28T19:47:21.693406Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-25T15:47:21.693411Z",
+    "amount": 1258
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-26T13:47:21.693418Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-12T13:47:21.693426Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-26T08:47:21.693436Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-22T19:47:21.693444Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T18:47:21.693451Z",
+    "amount": 4356
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-09T13:47:21.693459Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-13T04:47:21.693467Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-16T23:47:21.693481Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T14:47:21.693489Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-21T09:47:21.693498Z",
+    "amount": 4463
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-06T08:47:21.693505Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-07T19:47:21.693511Z",
+    "amount": 634
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-07T07:47:21.693516Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-29T00:47:21.693522Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-09T17:47:21.693527Z",
+    "amount": 2904
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-29T14:47:21.693533Z",
+    "amount": 4756
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-25T03:47:21.693540Z",
+    "amount": 697
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-14T02:47:21.693550Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-22T05:47:21.693559Z",
+    "amount": 4472
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-07T05:47:21.693574Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-24T14:47:21.693591Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-15T01:47:21.693598Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-02T19:47:21.693606Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-27T14:47:21.693615Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-24T18:47:21.693623Z",
+    "amount": 558
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-05T13:47:21.693632Z",
+    "amount": 4473
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-26T14:47:21.693642Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-24T08:47:21.693650Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-13T22:47:21.693660Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-15T21:47:21.693669Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-26T10:47:21.693677Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-11T01:47:21.693682Z",
+    "amount": 886
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-18T12:47:21.693688Z",
+    "amount": 1997
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T00:47:21.693694Z",
+    "amount": 3078
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-01T05:47:21.693702Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-28T03:47:21.693708Z",
+    "amount": 4662
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-09T19:47:21.693714Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-23T11:47:21.693719Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-30T13:47:21.693724Z",
+    "amount": 2809
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-14T22:47:21.693735Z",
+    "amount": 3008
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-27T00:47:21.693741Z",
+    "amount": 3073
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-06T09:47:21.693747Z",
+    "amount": 3830
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-16T02:47:21.693754Z",
+    "amount": 4909
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T06:47:21.693760Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T06:47:21.693765Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-14T00:47:21.693770Z",
+    "amount": 2993
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-25T16:47:21.693777Z",
+    "amount": 2540
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-24T20:47:21.693786Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-27T05:47:21.693890Z",
+    "amount": 4988
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-11T22:47:21.693912Z",
+    "amount": 3181
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-20T23:47:21.693922Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-26T08:47:21.693930Z",
+    "amount": 1628
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-05T07:47:21.693941Z",
+    "amount": 946
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-30T14:47:21.693950Z",
+    "amount": 4072
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-23T16:47:21.693960Z",
+    "amount": 2325
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-22T02:47:21.693969Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-10T10:47:21.693977Z",
+    "amount": 1582
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-20T16:47:21.693986Z",
+    "amount": 3413
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-10T00:47:21.693994Z",
+    "amount": 2353
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-27T13:47:21.694000Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-18T07:47:21.694005Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-08T02:47:21.694016Z",
+    "amount": 4860
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-03T09:47:21.694022Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-02T00:47:21.694027Z",
+    "amount": 1981
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T11:47:21.694032Z",
+    "amount": 1899
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-20T12:47:21.694038Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-30T04:47:21.694047Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-24T06:47:21.694052Z",
+    "amount": 1990
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-29T08:47:21.694058Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T12:47:21.694063Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-01T17:47:21.694071Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-02T20:47:21.694083Z",
+    "amount": 4398
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T09:47:21.694088Z",
+    "amount": 4111
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-12T07:47:21.694094Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-13T10:47:21.694099Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-09T01:47:21.694105Z",
+    "amount": 935
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-30T12:47:21.694115Z",
+    "amount": 3195
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-09T09:47:21.694124Z",
+    "amount": 2770
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-21T03:47:21.694131Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T18:47:21.694136Z",
+    "amount": 2289
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-28T07:47:21.694142Z",
+    "amount": 4368
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-30T21:47:21.694147Z",
+    "amount": 2636
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-29T01:47:21.694153Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-25T23:47:21.694158Z",
+    "amount": 1295
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-10T01:47:21.694164Z",
+    "amount": 2153
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-20T19:47:21.694169Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-10T07:47:21.694175Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-19T22:47:21.694180Z",
+    "amount": 3350
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-20T10:47:21.694185Z",
+    "amount": 2035
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-08T19:47:21.694192Z",
+    "amount": 4009
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-19T09:47:21.694202Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-21T14:47:21.694210Z",
+    "amount": 4380
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-02T08:47:21.694220Z",
+    "amount": 2213
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-22T08:47:21.694227Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-29T06:47:21.694233Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-25T19:47:21.694238Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-25T22:47:21.694243Z",
+    "amount": 4957
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-19T16:47:21.694251Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-14T02:47:21.694262Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-16T14:47:21.694270Z",
+    "amount": 2393
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-28T23:47:21.694280Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-28T02:47:21.694288Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-18T12:47:21.694293Z",
+    "amount": 4407
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-15T14:47:21.694306Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-13T18:47:21.694314Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-09T18:47:21.694323Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-02T07:47:21.694333Z"
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-05T23:47:21.694342Z",
+    "amount": 614
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-18T17:47:21.694351Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-05T10:47:21.694359Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-08T01:47:21.694365Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-19T11:47:21.694373Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-01T00:47:21.694381Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-28T19:47:21.694389Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-04T02:47:21.694395Z"
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-23T00:47:21.694400Z",
+    "amount": 1315
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-15T00:47:21.694406Z",
+    "amount": 2191
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-25T22:47:21.694411Z",
+    "amount": 4485
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-11T16:47:21.694417Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-19T16:47:21.694422Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-21T10:47:21.694428Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-01T14:47:21.694439Z",
+    "amount": 659
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-15T22:47:21.694449Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-30T10:47:21.694457Z",
+    "amount": 3459
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T07:47:21.694465Z",
+    "amount": 1169
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-25T11:47:21.694475Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-29T12:47:21.694480Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-13T03:47:21.694488Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-27T16:47:21.694496Z",
+    "amount": 1094
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-04-27T02:47:21.694506Z",
+    "amount": 2871
+  },
+  {
+    "client_id": "client_2",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-08T22:47:21.694521Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-15T16:47:21.694530Z"
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-14T20:47:21.694549Z",
+    "amount": 2443
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-11T16:47:21.694555Z",
+    "amount": 545
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-06T16:47:21.694561Z",
+    "amount": 4752
+  },
+  {
+    "client_id": "client_1",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-12T11:47:21.694570Z",
+    "amount": 3487
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-11T21:47:21.694577Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-08T14:47:21.694585Z",
+    "amount": 3886
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-10T21:47:21.694594Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-04-27T23:47:21.694604Z",
+    "amount": 4611
+  },
+  {
+    "client_id": "client_3",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-04T15:47:21.694613Z",
+    "amount": 540
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-19T06:47:21.694620Z",
+    "amount": 997
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-21T09:47:21.694630Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-30T17:47:21.694638Z"
+  },
+  {
+    "client_id": "client_9",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-11T00:47:21.694646Z",
+    "amount": 2183
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-02T14:47:21.694655Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-05T08:47:21.694660Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-17T08:47:21.694666Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-04T06:47:21.694671Z"
+  },
+  {
+    "client_id": "client_4",
+    "store_id": "store2",
+    "type": "recharge",
+    "timestamp": "2025-05-25T06:47:21.694676Z",
+    "amount": 937
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-20T13:47:21.694681Z"
+  },
+  {
+    "client_id": "client_0",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-22T13:47:21.694686Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "recharge",
+    "timestamp": "2025-05-20T08:47:21.694691Z",
+    "amount": 2867
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-16T06:47:21.694697Z"
+  },
+  {
+    "client_id": "client_7",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-05-20T01:47:21.694702Z"
+  },
+  {
+    "client_id": "client_8",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-04-29T21:47:21.694751Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-27T07:47:21.694762Z"
+  },
+  {
+    "client_id": "client_5",
+    "store_id": "store2",
+    "type": "visit",
+    "timestamp": "2025-04-28T09:47:21.694769Z"
+  },
+  {
+    "client_id": "client_6",
+    "store_id": "store1",
+    "type": "visit",
+    "timestamp": "2025-05-17T03:47:21.694775Z"
+  }
+]
