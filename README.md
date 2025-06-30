@@ -1,4 +1,4 @@
-# Prueba Técnica Ruko
+# Prueba Técnica Ruklo
 
 ## Propuesta de stack y arquitectura
 
