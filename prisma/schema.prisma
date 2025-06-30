@@ -17,8 +17,7 @@ model Client {
   client_id    String          @id @db.VarChar
   created_at   DateTime        @default(now()) @db.Timestamptz
   events       Event[]
-  benefits     Benefit[]
-  benefitLinks BenefitClient[] // Relación con beneficios a través de la tabla intermedia
+  benefitLinks BenefitClient[] // Relación muchos-a-muchos con Benefit
 }
 
 model Store {
@@ -43,17 +42,14 @@ model Event {
 
 model Benefit {
   benefit_id  Int      @id @default(autoincrement())
-  client_id   String
   store_id    String
   description String?
   granted_at  DateTime @default(now()) @db.Timestamptz
 
-  client       Client          @relation(fields: [client_id], references: [client_id])
   store        Store           @relation(fields: [store_id], references: [store_id])
-  benefitLinks BenefitClient[]
+  benefitLinks BenefitClient[] // Relación muchos-a-muchos con Client
 }
 
-// Tabla intermedia para la relación muchos a muchos entre Client y Benefit
 model BenefitClient {
   benefit_id Int
   client_id  String
