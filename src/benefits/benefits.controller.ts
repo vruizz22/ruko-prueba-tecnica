@@ -1,4 +1,12 @@
-import { Controller } from '@nestjs/common';
+import { Controller, Get } from '@nestjs/common';
+import { BenefitsService } from '@benefits/benefits.service';
 
 @Controller('benefits')
-export class BenefitsController {}
+export class BenefitsController {
+  constructor(private benefitsService: BenefitsService) {}
+
+  @Get('/automatic')
+  async createAutomaticBenefits() {
+    await this.benefitsService.createAutomaticBenefitForFrequentVisitors();
+  }
+}
