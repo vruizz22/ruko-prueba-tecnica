@@ -7,6 +7,6 @@ export class BenefitsController {
 
   @Get('/automatic')
   async createAutomaticBenefits() {
-    await this.benefitsService.createAutomaticBenefitForFrequentVisitors();
+    return await this.benefitsService.createAutomaticBenefitForFrequentVisitors();
   }
 }
