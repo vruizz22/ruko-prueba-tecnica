@@ -34,13 +34,62 @@ Ambas opciones pueden integrarse fácilmente a partir de la implementación actu
 
 #### 2. Historial de transacciones agrupado
 
+**Pregunta:** Considera cómo ordenarías y devolverías los datos.
+**Respuesta:**
+Para el historial de transacciones agrupado por semana, se entregan los datos en un json con la siguiente estructura:
+
+```json
+[
+  {
+    "client_id": "client_1",
+    "history": [
+      {
+        "type": "visit",
+        "weeks": [
+          { "week": "2025-W25", "count": 3 },
+          { "week": "2025-W26", "count": 5 }
+        ]
+      },
+      {
+        "type": "recharge",
+        "weeks": [
+          { "week": "2025-W25", "average_amount": 0 },
+          { "week": "2025-W26", "average_amount": 1200 }
+        ]
+      }
+    ]
+  }
+]
+```
+
+**Nota:** Actualmente, el endpoint, no entrega semanas con `average_amount` dado que desde los datos, no hay ninguna semana sin recargas, para cada cliente, pero se ha implementado la lógica para que si existieran semanas sin recargas, se devuelvan con `average_amount` como 0.
+
 ---
 
 ### ✍️ Parte 2
 
 #### Limitaciones de la solución actual
 
+- **Beneficio automático por 5 visitas seguidas:**
+  - La lógica actual procesa todos los eventos en memoria y recorre secuencialmente los eventos de cada cliente y tienda. Esto es eficiente para volúmenes pequeños o medianos, pero puede consumir mucha memoria y tiempo si la cantidad de eventos crece mucho.
+  - No se implementa procesamiento incremental ni en tiempo real: si los eventos llegan en streaming o en lotes muy grandes, habría que adaptar la lógica para evitar reprocesar todo el histórico cada vez.
+  - La deduplicación de beneficios depende de la consulta previa a la base de datos, lo que puede ser costoso si hay muchos clientes y beneficios.
+
+- **Historial de transacciones agrupado:**
+  - El cálculo del historial semanal se hace en memoria, agrupando todos los eventos del cliente y generando el rango de semanas. Si el rango es muy grande y hay muchos clientes, el consumo de memoria puede crecer rápidamente.
+  - Actualmente, la lógica depende de que los eventos estén correctamente fechados y no contempla eventos fuera de rango o inconsistentes.
+  - Si el volumen de datos es muy alto, la consulta inicial (`findMany`) puede ser lenta y costosa.
+
 #### Escalabilidad con 100.000 eventos diarios
+
+- **Beneficio automático por 5 visitas seguidas:**
+  - Procesar 100.000 eventos diarios en memoria no es escalable. Se recomienda migrar la lógica a un job batch asíncrono, dividir el procesamiento por cliente o tienda, y/o delegar la detección de secuencias a la base de datos usando SQL avanzado (window functions).
+  - Para escenarios de alta concurrencia, sería ideal usar colas de procesamiento y particionar los datos para evitar cuellos de botella.
+
+- **Historial de transacciones agrupado:**
+  - Con 100.000 eventos diarios, la consulta y el procesamiento en memoria pueden volverse lentos y consumir demasiados recursos.
+  - Para escalar, se recomienda paginar los resultados, limitar el rango de fechas consultado, o precalcular/agregar los datos semanalmente en la base de datos (por ejemplo, usando vistas materializadas o tablas de agregados).
+  - También se puede considerar exponer endpoints que permitan filtrar por cliente y rango de fechas para reducir la cantidad de datos procesados en cada consulta.
 
 ---
 
