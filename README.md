@@ -184,4 +184,21 @@ Tabla Client en Prisma studio:
 
 ![Prisma Studio](./docs/Client.png)
 
+Tabla Store en Prisma studio:
+
+![Prisma Studio](./docs/Store.png)
+
+Tabla Event en Prisma studio:
+
+![Prisma Studio](./docs/Event.png)
+
+**Nota:** Son 1000 eventos de prueba cargados desde el archivo `ruklo_events_1000.json`, que incluyen visitas y recargas,
+por lo tanto en la foto no se ven todos los eventos.
+
 **Supuesto:** Se asume un cliente no puede tener el mismo beneficio (con el mismo `benefit_id` y `store_id`) más de una vez. Si se detecta un beneficio ya otorgado, no se crea uno nuevo. Pero si el beneficio es diferente (por ejemplo, si se cambia la tienda o la descripción), se crea un nuevo registro. Por lo tanto, un cliente puede tener múltiples beneficios diferentes a lo largo del tiempo.
+
+- **GET /clients/transaction-history**
+  - Retorna el historial de transacciones de los clientes, agrupado por semana.
+  - Incluye visitas y recargas, con totales y conteos por semana.
+  
+[Ver json resultante del endpoint (JSON)](./docs/history-response.json)
