@@ -20,6 +20,9 @@ Para abordar esta prueba técnica, he decidido utilizar un stack alineado con el
 
 #### 1. Beneficio por visitas seguidas
 
+**Pregunta:** Explica cómo harías para evitar errores si esto se ejecuta sobre muchos eventos (¿usarías un job, caché, base de datos?, ¿cómo lo validarías?)
+**Respuesta:** Para evitar errores al procesar muchos eventos, implementaría un sistema robusto que combine:
+
 #### 2. Historial de transacciones agrupado
 
 ---
@@ -125,8 +128,31 @@ Tome esta decisión para asegurar que el entorno de desarrollo sea consistente y
 
 He implementado un script en el backend que carga los datos iniciales desde el archivo `ruklo_events_1000.json` a la base de datos PostgreSQL. Este script se ejecuta al iniciar la aplicación, asegurando que los datos de prueba estén disponibles para las consultas y pruebas.
 
+**Nota:** Para que el script funcione es necesario ejectuar:
+
+```bash
+npx prisma generate
+```
+
+Lo que permite generar los clientes de Prisma y así poder ejecutar el script de carga de datos, con el comando:
+
+```bash
+npx ts-node import-events.ts
+```
+
 #### Cantidad inicial de entidades
 
 - **Clientes:** 10
 - **Tiendas:** 2
 - **Eventos:** 1000 (visitas y recargas)
+
+### Módulos de la aplicación
+
+La aplicación está estructurada en módulos siguiendo las entidades y casos de uso principales:
+
+- **ClientsModule:** Gestiona la información de los clientes y expone endpoints para consultar su historial de eventos y transacciones agrupadas.
+- **BenefitsModule:** Encapsula la lógica de detección y otorgamiento de beneficios automáticos, así como la consulta de beneficios por cliente o tienda.
+- **StoresModule:** Permite consultar información de tiendas y sus relaciones con clientes y beneficios (opcional, pero recomendado para escalabilidad).
+- **EventsModule:** Centraliza la carga, consulta y procesamiento de eventos de visitas y recargas (opcional, útil para claridad y futuras extensiones).
+
+Esta modularización permite mantener el código organizado, escalable y alineado con las mejores prácticas de NestJS.
