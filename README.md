@@ -187,7 +187,7 @@ Tome esta decisión para asegurar que el entorno de desarrollo sea consistente y
 Luego, es necesario ejecutar las migraciones de Prisma para crear las tablas en la base de datos:
 
 ```bash
-npx prisma migrate dev
+pnpx prisma migrate dev
 ```
 
 ### Carga de datos inicial desde el .json a la base de datos
@@ -197,19 +197,19 @@ He implementado un script en el backend que carga los datos iniciales desde el a
 **Nota:** Para que el script funcione es necesario ejectuar:
 
 ```bash
-npx prisma generate
+pnpx prisma generate
 ```
 
 Lo que permite generar los clientes de Prisma y así poder ejecutar el script de carga de datos, con el comando:
 
 ```bash
-npx ts-node import-events.ts
+pnpx ts-node import-events.ts
 ```
 
 Para reiniciar toda la db desde 0, se puede ejecutar el siguiente comando:
 
 ```bash
-npx prisma migrate reset --force
+pnpx prisma migrate reset --force
 ```
 
 #### Cantidad inicial de entidades
