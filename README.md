@@ -206,6 +206,12 @@ Lo que permite generar los clientes de Prisma y así poder ejecutar el script de
 npx ts-node import-events.ts
 ```
 
+Para reiniciar toda la db desde 0, se puede ejecutar el siguiente comando:
+
+```bash
+npx prisma migrate reset --force
+```
+
 #### Cantidad inicial de entidades
 
 - **Clientes:** 10 (de client_0 a client_9)
