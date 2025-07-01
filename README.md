@@ -184,6 +184,12 @@ docker-compose up -d
 
 Tome esta decisión para asegurar que el entorno de desarrollo sea consistente y fácil de configurar, permitiendo a cualquier desarrollador clonar el repositorio y comenzar a trabajar sin complicaciones adicionales.
 
+Luego, es necesario ejecutar las migraciones de Prisma para crear las tablas en la base de datos:
+
+```bash
+pnpx prisma migrate dev
+```
+
 ### Carga de datos inicial desde el .json a la base de datos
 
 He implementado un script en el backend que carga los datos iniciales desde el archivo `ruklo_events_1000.json` a la base de datos PostgreSQL. Este script se ejecuta al iniciar la aplicación, asegurando que los datos de prueba estén disponibles para las consultas y pruebas.
@@ -191,13 +197,19 @@ He implementado un script en el backend que carga los datos iniciales desde el a
 **Nota:** Para que el script funcione es necesario ejectuar:
 
 ```bash
-npx prisma generate
+pnpx prisma generate
 ```
 
 Lo que permite generar los clientes de Prisma y así poder ejecutar el script de carga de datos, con el comando:
 
 ```bash
-npx ts-node import-events.ts
+pnpx ts-node import-events.ts
+```
+
+Para reiniciar toda la db desde 0, se puede ejecutar el siguiente comando:
+
+```bash
+pnpx prisma migrate reset --force
 ```
 
 #### Cantidad inicial de entidades
